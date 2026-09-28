@@ -35,6 +35,8 @@ Using OnlineGDB (Browser-based)
 | **sum.cpp** — changed values | 125 and 375 | 500 | Total: 500 | Match |
 | **mpg.cpp** — assigned values | 312 miles; 16 gallons | 19.5 miles per gallon | The mpg the car has = 19.5 | Match (Fixed integer division by using double) |
 | **mpg.cpp** — changed values | 405 miles; 12 gallons | 33.75 miles per gallon | The mpg the car has = 33.75 | Match |
+
+
 Code Restoration Note: After completing all test runs with changed values, I restored sum.cpp and mpg.cpp back to their original assigned values (50/100 and 312/16), re-compiled both programs, and verified that they produced the original expected outputs before final submission.
 
 CODE EXPLAINATIONS
