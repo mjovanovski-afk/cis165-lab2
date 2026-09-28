@@ -13,15 +13,15 @@ Using OnlineGDB (Browser-based)
  
  Plans & Pseudocode
 
-    Program 1: sum.cpp
+Program 1: sum.cpp
 - Plan: Declare two integer variables to store the values 50 and 100. Declare a third integer named `total` to store the sum. Add the two values, put the result to `total`, and display `total` to the console.
 - Pseudocode:
   num1 = 50
   num2 = 100
   total = num1 + num2
   PRINT "Total sum: " + total
-  
-    Program 2: mpg.cpp
+
+Program 2: mpg.cpp
 - Plan: Declare double variabless for miles, gallons, and mpg to hold decimal values. Store 312 in miles and 16 in gallons. Calculate miles divided by gallons, assign the result to mpg, and display mpg with clear units.
 - Pseudocode:
   miles = 312.0
