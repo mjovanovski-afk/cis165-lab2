@@ -4,19 +4,19 @@ Course Section:CIS-165-B030
 
 How to Compile and Run
 
-Using OnlineGDB (Browser-based)
-1. Go to [OnlineGDB](https://www.onlinegdb.com/).
-2. Select **C++17** from the language dropdown menu in the top-right corner.
-3. Open or upload `sum.cpp` or `mpg.cpp`.
-4. Click the green **Run** button at the top to compile and execute.
+Using OnlineGDB
+1. Go to OnlineGDB.
+2. Select C++17 from the language dropdown menu in the top-right corner.
+3. Open or upload sum.cpp or mpg.cpp.
+4. Click the green Run button at the top to compile and execute.
  
  
  Plans & Pseudocode
 
 Program 1: sum.cpp
-- Plan: Declare two integer variables to store the values 50 and 100. Declare a third integer named `total` to store the sum. Add the two values, put the result to `total`, and display `total` to the console.
+- Plan: Declare two integer variables to store the values 50 and 100. Declare a third integer named total to store the sum. Add the two values, put the result to total, and display total to the console.
 - Pseudocode:
-  num1 = 50
+  num1 = 50 
   num2 = 100
   total = num1 + num2
   PRINT "Total sum: " + total
