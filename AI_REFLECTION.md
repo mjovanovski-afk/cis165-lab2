@@ -1,7 +1,7 @@
   AI Reflection — Lab 2
 
    Tools Used
-I used AI (Gemini) as a learning assistant for explanations, debugging, and code review during this lab.
+I used AI (Gemini) as a learning assistant for explanations, debugging, and code review during this lab. Also, I used AI to format and structure data into a table for the README file.
 
    Key Decision & Prompt
 - Prompt: "In mpg.cpp, gallons=16, miles=312, mpg=miles/gallons. The answer it gives me is 19 not 19.5. Should gallons and miles be integers or doubles?"
